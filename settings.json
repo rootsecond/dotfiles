@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Dark (Molokai)",
+    "workbench.iconTheme": "seti",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false
+}
